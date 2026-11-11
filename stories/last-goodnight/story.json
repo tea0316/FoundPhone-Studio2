@@ -1,0 +1,1176 @@
+{
+  "scriptVersion": 1,
+  "id": "last-goodnight",
+  "title": "村井優的IPHONE",
+  "description": "玩家撿到櫻坂46三期生村井優的手機，透過手機裡的聊天、照片、社群動態與備忘錄，逐漸走進她與山下瞳月之間未說出口的故事。",
+  "revision": 1,
+  "phone": {
+    "owner": "村井優",
+    "date": "2025-12-20",
+    "time": "22:37",
+    "battery": 62,
+    "network": "5G",
+    "wallpaper": "sage",
+    "theme": "light"
+  },
+  "installedApps": [
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    "camera",
+    "safari",
+    "notes",
+    "calendar",
+    "mail",
+    "clock",
+    "reminders",
+    "music",
+    "maps",
+    "weather",
+    "settings",
+    "wechat",
+    "instagram",
+    "twitter",
+    "youtube",
+    "line",
+    "threads"
+  ],
+  "contacts": [
+    {
+      "id": "hitomi",
+      "name": "山下瞳月",
+      "phone": "090-1234-5601",
+      "bio": "櫻坂46三期生。優最重要的存在。"
+    },
+    {
+      "id": "rika",
+      "name": "石森璃花",
+      "phone": "090-1234-5602",
+      "bio": "三期生。觀賽夥伴，溫柔的知心大姐姐。"
+    },
+    {
+      "id": "mio",
+      "name": "的野美青",
+      "phone": "090-1234-5603",
+      "bio": "三期生年少組。高挑帥氣，喜歡捉弄優。"
+    },
+    {
+      "id": "rei",
+      "name": "守屋麗奈",
+      "phone": "090-1234-5604",
+      "bio": "二期生前輩。溫柔包容，優很崇拜她。"
+    },
+    {
+      "id": "nagisa",
+      "name": "小島凪紗",
+      "phone": "090-1234-5605",
+      "bio": "三期生。容易興奮的大型犬。"
+    },
+    {
+      "id": "rina",
+      "name": "小田倉麗奈",
+      "phone": "090-1234-5606",
+      "bio": "三期生。腹黑冷知識王。"
+    },
+    {
+      "id": "aki",
+      "name": "谷口愛季",
+      "phone": "090-1234-5607",
+      "bio": "三期生。萬能媽媽型，心思細膩。"
+    },
+    {
+      "id": "miu",
+      "name": "村山美羽",
+      "phone": "090-1234-5608",
+      "bio": "三期生。酷帥冷臉，生活技能趨近於零。"
+    },
+    {
+      "id": "sumire",
+      "name": "向井純葉",
+      "phone": "090-1234-5609",
+      "bio": "三期生。群組氣氛擔當。"
+    },
+    {
+      "id": "yuzu",
+      "name": "中嶋優月",
+      "phone": "090-1234-5610",
+      "bio": "三期生。起鬨組。"
+    },
+    {
+      "id": "manager",
+      "name": "佐藤Manager",
+      "phone": "090-1234-5611",
+      "bio": "櫻坂46經紀人。"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-hitomi-line",
+      "app": "line",
+      "title": "山下瞳月",
+      "participants": ["hitomi", "owner"],
+      "messages": [
+        {
+          "id": "line-hitomi-1",
+          "body": "優，今天的練習辛苦了",
+          "senderId": "hitomi",
+          "time": "2025-12-19 23:12"
+        },
+        {
+          "id": "line-hitomi-2",
+          "body": "謝謝！瞳月也辛苦了",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-19 23:15"
+        },
+        {
+          "id": "line-hitomi-3",
+          "body": "你最近……還好嗎？",
+          "senderId": "hitomi",
+          "time": "2025-12-19 23:18"
+        },
+        {
+          "id": "line-hitomi-4",
+          "body": "嗯，我沒事喔。不用擔心我",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-19 23:20"
+        },
+        {
+          "id": "line-hitomi-5",
+          "body": "是嗎……那就好",
+          "senderId": "hitomi",
+          "time": "2025-12-19 23:21"
+        },
+        {
+          "id": "line-hitomi-6",
+          "body": "明天有空嗎？想找你聊聊",
+          "senderId": "hitomi",
+          "time": "2025-12-19 23:30"
+        },
+        {
+          "id": "line-hitomi-7",
+          "body": "明天？可能要和璃花去一趟烘焙教室……改天好嗎？",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-19 23:33"
+        },
+        {
+          "id": "line-hitomi-8",
+          "body": "好，沒關係。晚安",
+          "senderId": "hitomi",
+          "time": "2025-12-19 23:35"
+        },
+        {
+          "id": "line-hitomi-9",
+          "body": "晚安",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-19 23:36"
+        },
+        {
+          "id": "line-hitomi-10",
+          "body": "優，我有些話想跟你說。關於我們的事，也關於我自己。",
+          "senderId": "hitomi",
+          "time": "2025-12-20 22:05"
+        },
+        {
+          "id": "line-hitomi-11",
+          "body": "這幾個月我一直很在意，卻不知道怎麼開口。你能看懂我藏在備忘錄裡的東西嗎？密碼是我們出道那天。",
+          "senderId": "hitomi",
+          "time": "2025-12-20 22:10"
+        },
+        {
+          "id": "line-hitomi-12",
+          "body": "如果我們的心意是一樣的，明天在第一次見面的地方等我。",
+          "senderId": "hitomi",
+          "time": "2025-12-20 22:12"
+        }
+      ]
+    },
+    {
+      "id": "chat-rika-line",
+      "app": "line",
+      "title": "石森璃花",
+      "participants": ["rika", "owner"],
+      "messages": [
+        {
+          "id": "line-rika-1",
+          "body": "優！週末籃球賽的票搶到了！一起去吧～",
+          "senderId": "rika",
+          "time": "2025-12-15 19:00"
+        },
+        {
+          "id": "line-rika-2",
+          "body": "好耶！謝謝璃花",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-15 19:03"
+        },
+        {
+          "id": "line-rika-3",
+          "body": "對了，你最近和瞳月還好嗎？感覺你們好像有點……",
+          "senderId": "rika",
+          "time": "2025-12-15 19:10"
+        },
+        {
+          "id": "line-rika-4",
+          "body": "沒有啦，我們很好的。只是大家都忙",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-15 19:15"
+        },
+        {
+          "id": "line-rika-5",
+          "body": "是嗎。我覺得瞳月其實很在意你喔，她只是不知道怎麼說",
+          "senderId": "rika",
+          "time": "2025-12-15 19:18"
+        },
+        {
+          "id": "line-rika-6",
+          "body": "嗯……我知道",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-15 19:20"
+        }
+      ]
+    },
+    {
+      "id": "chat-mio-line",
+      "app": "line",
+      "title": "的野美青",
+      "participants": ["mio", "owner"],
+      "messages": [
+        {
+          "id": "line-mio-1",
+          "body": "優前輩～聽說你最近當了Center，好厲害！",
+          "senderId": "mio",
+          "time": "2025-10-02 20:00"
+        },
+        {
+          "id": "line-mio-2",
+          "body": "哈哈謝謝美青！其實壓力有點大",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-10-02 20:02"
+        },
+        {
+          "id": "line-mio-3",
+          "body": "有什麼壓力可以跟我說喔。雖然我是年少組但身高比你高，可以借你靠",
+          "senderId": "mio",
+          "time": "2025-10-02 20:05"
+        },
+        {
+          "id": "line-mio-4",
+          "body": "你明明比我小兩歲！",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-10-02 20:07"
+        },
+        {
+          "id": "line-mio-5",
+          "body": "嘿嘿，身高贏了就夠了",
+          "senderId": "mio",
+          "time": "2025-10-02 20:08"
+        }
+      ]
+    },
+    {
+      "id": "chat-rei-line",
+      "app": "line",
+      "title": "守屋麗奈",
+      "participants": ["rei", "owner"],
+      "messages": [
+        {
+          "id": "line-rei-1",
+          "body": "優醬，聽說你被選為Center了！恭喜！",
+          "senderId": "rei",
+          "time": "2025-09-25 18:00"
+        },
+        {
+          "id": "line-rei-2",
+          "body": "謝謝守屋前輩！我會努力的",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-09-25 18:03"
+        },
+        {
+          "id": "line-rei-3",
+          "body": "你一定可以的。壓力大的時候隨時來找前輩聊",
+          "senderId": "rei",
+          "time": "2025-09-25 18:05"
+        },
+        {
+          "id": "line-rei-4",
+          "body": "嗯！前輩一直是我很憧憬的存在",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-09-25 18:07"
+        },
+        {
+          "id": "line-rei-5",
+          "body": "哎呀，優醬太會說話了。加油喔！",
+          "senderId": "rei",
+          "time": "2025-09-25 18:10"
+        }
+      ]
+    },
+    {
+      "id": "chat-group-line",
+      "app": "line",
+      "title": "三期生群組（11）",
+      "participants": ["hitomi", "rika", "mio", "nagisa", "rina", "aki", "miu", "sumire", "yuzu", "owner"],
+      "messages": [
+        {
+          "id": "line-group-1",
+          "body": "優被選為Center了！大家一起恭喜她～",
+          "senderId": "nagisa",
+          "time": "2025-09-25 17:00"
+        },
+        {
+          "id": "line-group-2",
+          "body": "優！太厲害了！恭喜！！",
+          "senderId": "sumire",
+          "time": "2025-09-25 17:01"
+        },
+        {
+          "id": "line-group-3",
+          "body": "恭喜優前輩！",
+          "senderId": "yuzu",
+          "time": "2025-09-25 17:02"
+        },
+        {
+          "id": "line-group-4",
+          "body": "謝謝大家！我會努力的",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-09-25 17:05"
+        },
+        {
+          "id": "line-group-5",
+          "body": "優當Center實至名歸！我們都支持你",
+          "senderId": "aki",
+          "time": "2025-09-25 17:07"
+        },
+        {
+          "id": "line-group-6",
+          "body": "對啊對啊！優最棒了！",
+          "senderId": "nagisa",
+          "time": "2025-09-25 17:08"
+        },
+        {
+          "id": "line-group-7",
+          "body": "順帶一提，知道嗎？樹懶一週只排便一次，而且是在樹根挖坑",
+          "senderId": "rina",
+          "time": "2025-09-25 17:10"
+        },
+        {
+          "id": "line-group-8",
+          "body": "麗奈你在這種時候說這個幹嘛www",
+          "senderId": "sumire",
+          "time": "2025-09-25 17:11"
+        },
+        {
+          "id": "line-group-9",
+          "body": "因為優當Center是很稀有的事，就像樹懶排便一樣珍貴",
+          "senderId": "rina",
+          "time": "2025-09-25 17:12"
+        },
+        {
+          "id": "line-group-10",
+          "body": "這什麼比喻啦www",
+          "senderId": "nagisa",
+          "time": "2025-09-25 17:13"
+        },
+        {
+          "id": "line-group-11",
+          "body": "呵呵，謝謝大家。我會加油的",
+          "senderId": "hitomi",
+          "time": "2025-09-25 17:15"
+        },
+        {
+          "id": "line-group-12",
+          "body": "話說最近優和瞳月是不是很少在群組互動了？以前你們不是最常聊天的嗎",
+          "senderId": "sumire",
+          "time": "2025-11-20 22:00"
+        },
+        {
+          "id": "line-group-13",
+          "body": "純葉！不要亂說",
+          "senderId": "hitomi",
+          "time": "2025-11-20 22:02"
+        },
+        {
+          "id": "line-group-14",
+          "body": "嘿嘿，我就是好奇嘛",
+          "senderId": "sumire",
+          "time": "2025-11-20 22:03"
+        },
+        {
+          "id": "line-group-15",
+          "body": "大家都很忙嘛，正常的",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-11-20 22:05"
+        },
+        {
+          "id": "line-group-16",
+          "body": "嗯……也是啦",
+          "senderId": "sumire",
+          "time": "2025-11-20 22:06"
+        },
+        {
+          "id": "line-group-17",
+          "body": "優跟瞳月以前每天都黏在一起的呢",
+          "senderId": "nagisa",
+          "time": "2025-11-20 22:10"
+        },
+        {
+          "id": "line-group-18",
+          "body": "凪紗也別說了啦……",
+          "senderId": "hitomi",
+          "time": "2025-11-20 22:12"
+        },
+        {
+          "id": "line-group-19",
+          "body": "好好好我不說了～",
+          "senderId": "nagisa",
+          "time": "2025-11-20 22:13"
+        },
+        {
+          "id": "line-group-20",
+          "body": "對了，週末要不要一起去吃飯？三期生全員",
+          "senderId": "aki",
+          "time": "2025-12-18 15:00"
+        },
+        {
+          "id": "line-group-21",
+          "body": "好！我想吃火鍋！",
+          "senderId": "miu",
+          "time": "2025-12-18 15:02"
+        },
+        {
+          "id": "line-group-22",
+          "body": "美羽你只會說想吃什麼，其他什麼都不會",
+          "senderId": "aki",
+          "time": "2025-12-18 15:03"
+        },
+        {
+          "id": "line-group-23",
+          "body": "因為有愛季在嘛～我負責吃就好",
+          "senderId": "miu",
+          "time": "2025-12-18 15:04"
+        },
+        {
+          "id": "line-group-24",
+          "body": "你這個軟飯女www",
+          "senderId": "sumire",
+          "time": "2025-12-18 15:05"
+        },
+        {
+          "id": "line-group-25",
+          "body": "我覺得火鍋好！大家週末見",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-18 15:10"
+        },
+        {
+          "id": "line-group-26",
+          "body": "我也去！",
+          "senderId": "hitomi",
+          "time": "2025-12-18 15:12"
+        }
+      ]
+    },
+    {
+      "id": "chat-hitomi-sms",
+      "app": "messages",
+      "title": "山下瞳月",
+      "participants": ["hitomi", "owner"],
+      "messages": [
+        {
+          "id": "sms-hitomi-1",
+          "body": "優，出道紀念日快樂。20231104，永遠記得這一天。",
+          "senderId": "hitomi",
+          "time": "2025-11-04 00:00"
+        },
+        {
+          "id": "sms-hitomi-2",
+          "body": "瞳月……我也是。謝謝你。",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-11-04 00:05"
+        }
+      ]
+    },
+    {
+      "id": "chat-manager-sms",
+      "app": "messages",
+      "title": "佐藤Manager",
+      "participants": ["manager", "owner"],
+      "messages": [
+        {
+          "id": "sms-mgr-1",
+          "body": "村井優，12/21早上10點有拍攝工作，請準時到。",
+          "senderId": "manager",
+          "time": "2025-12-20 18:00"
+        },
+        {
+          "id": "sms-mgr-2",
+          "body": "收到，我會準時到",
+          "senderId": "owner",
+          "outgoing": true,
+          "time": "2025-12-20 18:05"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "wechat": [
+      {
+        "id": "wechat-rika-share",
+        "title": "石森璃花",
+        "sender": "石森璃花",
+        "body": "優，你知道嗎？我今天看到瞳月在練習結束後偷偷等你，但你跟璃花一起走了。她看起來有點失落。",
+        "kind": "text",
+        "time": "2025-11-15 22:00",
+        "outgoing": false
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-diary-2023",
+        "title": "2023年・出道",
+        "body": "出道那天，11月4日。我們站在一起，手在發抖。瞳月握住了我的手，說：「沒關係，我們一起。」那是我第一次覺得，有這個人在身邊，什麼都不怕。\n\n出道後那段日子，我們幾乎每天都在一起。分享每一件小事，互相陪伴。她是我最熟悉、最安心的存在。",
+        "kind": "note",
+        "time": "2023-11-05 01:00",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-diary-2024",
+        "title": "2024年・各自的朋友圈",
+        "body": "不知道從什麼時候開始，我們不再每天都找對方了。\n\n三期生一起活動，我們都認識了更多朋友。沒有吵架，也沒有討厭彼此。只是……開始有了不一定需要對方參與的生活。\n\n以前每天分享的事，現在會先告訴別人。以前總是坐在一起的兩個人，開始有了不同的相處對象。\n\n這大概就是自然的疏遠吧。",
+        "kind": "note",
+        "time": "2024-12-31 23:00",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-diary-2025-sep",
+        "title": "2025年9月・Center",
+        "body": "被選為Center了。\n\n大家都在恭喜我，我也努力表現得很開心。但實際上壓力好大——擔心能不能勝任，害怕辜負大家和粉絲的期待。覺得自己還有很多不足。\n\n即使疲憊，也不太想把負面情緒表現出來。和成員相處時保持開朗，但獨處時總是胡思亂想。\n\n……瞳月，你能看出來嗎？",
+        "kind": "note",
+        "time": "2025-09-25 23:30",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-diary-2025-oct",
+        "title": "2025年10月・她察覺了",
+        "body": "瞳月好像發現我不太對勁了。\n\n練習結束後她會偷偷等我一起回去。在我逞強的時候給我安慰。她一定想起了以前我們總是互相依靠的日子。\n\n但我總是回答「我沒事」「不用擔心」。\n\n不是不想讓她靠近。是不知道該怎麼回到那個位置了。",
+        "kind": "note",
+        "time": "2025-10-15 23:00",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-diary-2025-nov",
+        "title": "2025年11月・好意變成誤會",
+        "body": "瞳月想幫我，卻發現我更願意和璃花相處。\n\n其實不是不願意找她。是害怕依賴她太多，會讓她覺得 burden。而且……和璃花在一起時比較輕鬆，不用想太多。\n\n瞳月看到我和璃花出去玩時，似乎有點在意。她開始吃醋，但又覺得自己沒有立場。\n\n我也察覺到她刻意保持距離，以為她不想增加我的負擔。於是兩人都開始退縮。\n\n最難過的是——她其實很想陪我，我也很希望她能陪在身邊。只是都沒有說出口。",
+        "kind": "note",
+        "time": "2025-11-20 23:30",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-diary-2025-dec",
+        "title": "2025年12月・我們真的不熟了嗎",
+        "body": "網路上有粉絲在討論：「她們是不是沒有以前那麼親近了？」「感覺現在互動變少了。」「以前很常在一起，現在是不是只剩工作上的互動？」「以前的關係是不是比較像營業？」\n\n這些只是粉絲的討論，不代表所有粉絲的看法。但看到這些，我還是會想起2023年。\n\n我不希望別人覺得我們不熟。但又不知道該怎麼自然地表現親近。\n\n更重要的是——我開始懷疑，自己是不是已經失去了以前那種能夠毫無顧慮地找她的關係？\n\n……不對。我想找回來。",
+        "kind": "note",
+        "time": "2025-12-10 23:00",
+        "folder": "私人筆記"
+      },
+      {
+        "id": "note-letter",
+        "title": "給瞳月的信",
+        "body": "瞳月：\n\n這封信我寫了很久，一直沒有勇氣給你。\n\n2023年出道那天，你握住我發抖的手，說「沒關係，我們一起」。從那一刻起，你就是我最重要的存在。\n\n2024年我們慢慢走向了不同的圈子，沒有吵架，只是自然疏遠了。我以為這就是成長。\n\n2025年，被選為Center的時候，我壓力大到快喘不過氣。你察覺到了，偷偷等我，在我逞強時給我安慰。但我總說「我沒事」。\n\n不是不想讓你靠近。是我開始害怕——我對你的感情，是不是已經不只是「朋友」了。\n\n看到你和別人互動時我會在意。想到你可能不再第一時間找我，我會難過。這不是「懷念以前」，是另一種感情。\n\n如果有一天你看懂了這封信，如果你願意——我想親口告訴你。\n\n密碼是我們出道那天：20231104。\n\n優",
+        "kind": "note",
+        "password": "20231104",
+        "hidden": true,
+        "time": "2025-12-18 02:00",
+        "folder": "私人筆記"
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-debut",
+        "title": "出道日・2023.11.04",
+        "body": "出道當天，我們站在一起。手在發抖，但你握住了我。",
+        "kind": "image",
+        "time": "2023-11-04 18:00",
+        "folder": "回憶"
+      },
+      {
+        "id": "photo-practice",
+        "title": "練習後",
+        "body": "2024年夏天。練習結束後一起回家。那時候還每天都在一起。",
+        "kind": "image",
+        "time": "2024-07-10 20:00",
+        "folder": "回憶"
+      },
+      {
+        "id": "photo-basketball",
+        "title": "籃球賽",
+        "body": "和璃花一起去看籃球賽。瞳月那天好像也想約我，但我已經答應璃花了。",
+        "kind": "image",
+        "time": "2025-11-10 15:00",
+        "folder": "日常"
+      },
+      {
+        "id": "photo-center",
+        "title": "Center發表那天",
+        "body": "2025年9月。大家都在恭喜我。只有瞳月什麼都沒說，但她看著我的眼神，我知道她都懂。",
+        "kind": "image",
+        "time": "2025-09-25 17:30",
+        "folder": "日常",
+        "favorite": true
+      },
+      {
+        "id": "photo-hidden-waiting",
+        "title": "偷偷等待",
+        "body": "璃花發給我的照片。瞳月練習結束後等在門口。她以為我不知道，但我都知道。",
+        "kind": "image",
+        "hidden": true,
+        "time": "2025-11-15 19:00",
+        "folder": "日常"
+      },
+      {
+        "id": "photo-group-dinner",
+        "title": "三期生聚餐",
+        "body": "2025年12月。三期生一起吃火鍋。雖然我們沒有坐在一起，但她在那裡，就覺得安心。",
+        "kind": "image",
+        "time": "2025-12-18 19:00",
+        "folder": "日常"
+      }
+    ],
+    "instagram": [
+      {
+        "id": "ig-yuu-center",
+        "title": "村井優",
+        "body": "被選為Center了。謝謝大家的支持！會繼續努力💪✨ #櫻坂46",
+        "kind": "post",
+        "sender": "村井優",
+        "time": "2025-09-25 20:00",
+        "likes": 15234,
+        "comments": ["恭喜優！！", "Center實至名歸！", "好棒！加油！"]
+      },
+      {
+        "id": "ig-hitomi-reply",
+        "title": "山下瞳月",
+        "body": "「一直都是最耀眼的人。」✨",
+        "kind": "post",
+        "sender": "山下瞳月",
+        "time": "2025-09-25 21:00",
+        "likes": 8901,
+        "comments": ["瞳月好溫柔", "兩位都加油！"]
+      },
+      {
+        "id": "ig-yuu-rika",
+        "title": "村井優",
+        "body": "和璃花去看籃球賽！好久沒這麼放鬆了🏀",
+        "kind": "post",
+        "sender": "村井優",
+        "time": "2025-11-10 18:00",
+        "likes": 9821,
+        "comments": ["好開心！", "璃花好可愛～"]
+      },
+      {
+        "id": "ig-mio-tease",
+        "title": "的野美青",
+        "body": "優前輩又被我嚇到了。明明是姐姐卻這麼膽小，真可愛（笑）",
+        "kind": "post",
+        "sender": "的野美青",
+        "time": "2025-10-05 21:00",
+        "likes": 6543,
+        "comments": ["美青太帥了www", "身高差好可愛"]
+      },
+      {
+        "id": "ig-rei-yuu",
+        "title": "守屋麗奈",
+        "body": "優醬加油！前輩永遠支持你🩷",
+        "kind": "post",
+        "sender": "守屋麗奈",
+        "time": "2025-09-26 12:00",
+        "likes": 7234,
+        "comments": ["守屋前輩好溫柔", "二期三期都好暖"]
+      },
+      {
+        "id": "ig-aki-miu",
+        "title": "谷口愛季",
+        "body": "今天的美羽：起床→等我做飯→吃完→等我收拾→繼續躺著。名副其實的軟飯女😊",
+        "kind": "post",
+        "sender": "谷口愛季",
+        "time": "2025-12-05 20:00",
+        "likes": 11200,
+        "comments": ["愛季媽媽辛苦了www", "美羽太好笑了", "這對太好磕"]
+      },
+      {
+        "id": "ig-rina-nagisa",
+        "title": "小田倉麗奈",
+        "body": "今天教了凪紗一個冷知識：章魚有三個心臟。她興奮了整整十分鐘。大型犬果然需要每天遛。",
+        "kind": "post",
+        "sender": "小田倉麗奈",
+        "time": "2025-12-08 19:00",
+        "likes": 8900,
+        "comments": ["麗奈太腹黑了www", "凪紗好可愛", "主人與大型犬"]
+      },
+      {
+        "id": "ig-yuu-dec",
+        "title": "村井優",
+        "body": "12月了。今年發生了很多事。有些話還沒說出口，希望在還來得及的時候……",
+        "kind": "post",
+        "sender": "村井優",
+        "time": "2025-12-15 23:00",
+        "likes": 18700,
+        "comments": ["優加油！", "感覺有故事……", "支持你！"]
+      },
+      {
+        "id": "ig-hitomi-dec",
+        "title": "山下瞳月",
+        "body": "有些心意，不說出來的話，時間會替你做出選擇。我不想讓時間替我選。",
+        "kind": "post",
+        "sender": "山下瞳月",
+        "time": "2025-12-16 22:00",
+        "likes": 13500,
+        "comments": ["瞳月的文字好有力", "她是不是在說什麼……"]
+      }
+    ],
+    "twitter": [
+      {
+        "id": "tw-fan-1",
+        "title": "櫻坂46粉絲討論",
+        "body": "感覺最近村井優和山下瞳月的互動變少了？以前她們不是最常在一起的嗎？",
+        "kind": "post",
+        "sender": "匿名粉絲A",
+        "time": "2025-12-08 10:00",
+        "likes": 234,
+        "comments": ["好像是有點", "以前很黏的", "可能各自忙吧"]
+      },
+      {
+        "id": "tw-fan-2",
+        "title": "櫻坂46粉絲討論",
+        "body": "以前她們每天都在一起，現在是不是只剩工作上的互動？以前的關係是不是比較像營業？",
+        "kind": "post",
+        "sender": "匿名粉絲B",
+        "time": "2025-12-08 12:00",
+        "likes": 189,
+        "comments": ["不會吧嗚嗚", "希望不是營業", "有時候長大了就是這樣"]
+      },
+      {
+        "id": "tw-fan-3",
+        "title": "櫻坂46粉絲討論",
+        "body": "看了最近的活動影片，感覺她們還是有在偷偷看對方的。或許只是沒有表現出來而已。",
+        "kind": "post",
+        "sender": "匿名粉絲C",
+        "time": "2025-12-08 15:00",
+        "likes": 412,
+        "comments": ["這個觀察好細膩", "偷偷看對方嗚嗚", "我相信她們感情很好"]
+      }
+    ],
+    "threads": [
+      {
+        "id": "threads-hitomi-thought",
+        "title": "山下瞳月",
+        "body": "「不是不想靠近。是害怕靠近之後，才發現自己已經回不去那個位置了。」",
+        "sender": "山下瞳月",
+        "time": "2025-12-10 23:00"
+      },
+      {
+        "id": "threads-yuu-thought",
+        "title": "村井優",
+        "body": "「如果我對你的感情不只是懷念以前，那我該怎麼稱呼它？」",
+        "sender": "村井優",
+        "time": "2025-12-11 00:00"
+      },
+      {
+        "id": "threads-fan-discuss",
+        "title": "討論",
+        "body": "有人覺得村井優和山下瞳月的關係變了嗎？以前她們多親密啊。",
+        "sender": "討論串",
+        "time": "2025-12-09 18:00",
+        "folder": "私訊"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "cal-debut-anniv",
+        "title": "出道紀念日",
+        "body": "2023.11.04 — 永遠記得這一天。",
+        "kind": "event",
+        "time": "2025-11-04 00:00"
+      },
+      {
+        "id": "cal-center-announce",
+        "title": "Center發表",
+        "body": "2025.09.25 被選為Center。",
+        "kind": "event",
+        "time": "2025-09-25 17:00"
+      },
+      {
+        "id": "cal-basketball",
+        "title": "籃球賽（和璃花）",
+        "body": "2025.11.10 和璃花一起去看籃球賽。",
+        "kind": "event",
+        "time": "2025-11-10 14:00"
+      },
+      {
+        "id": "cal-group-dinner",
+        "title": "三期生聚餐",
+        "body": "2025.12.18 三期生火鍋聚餐。",
+        "kind": "event",
+        "time": "2025-12-18 18:30"
+      },
+      {
+        "id": "cal-shoot",
+        "title": "拍攝工作",
+        "body": "2025.12.21 10:00 拍攝工作。",
+        "kind": "event",
+        "time": "2025-12-21 10:00"
+      },
+      {
+        "id": "cal-hitomi-meet",
+        "title": "那個地方",
+        "body": "「如果我們的心意是一樣的，明天在第一次見面的地方等我。」",
+        "kind": "event",
+        "time": "2025-12-21 09:00"
+      }
+    ],
+    "phone": [
+      {
+        "id": "call-hitomi-missed",
+        "title": "山下瞳月",
+        "body": "未接來電",
+        "kind": "call",
+        "meta": { "phone": "090-1234-5601" },
+        "time": "2025-12-20 22:00"
+      },
+      {
+        "id": "call-hitomi-voicemail",
+        "title": "語音信箱・山下瞳月",
+        "body": "優……是我。你有看到我的訊息嗎？我有些話想跟你說。如果你願意的話，明天早上在第一次見面的地方等我。我會一直等到你來。",
+        "kind": "audio",
+        "folder": "語音信箱",
+        "time": "2025-12-20 22:03"
+      },
+      {
+        "id": "call-mgr",
+        "title": "佐藤Manager",
+        "body": "已接來電・18:00",
+        "kind": "call",
+        "meta": { "phone": "090-1234-5611" },
+        "time": "2025-12-20 18:00"
+      },
+      {
+        "id": "call-rei",
+        "title": "守屋麗奈",
+        "body": "已接來電・通話3分鐘",
+        "kind": "call",
+        "meta": { "phone": "090-1234-5604" },
+        "time": "2025-09-26 20:00"
+      }
+    ],
+    "music": [
+      {
+        "id": "music-playlist",
+        "title": "最近的歌單",
+        "body": "1. この空がトリガー - =LOVE\n2. 僕は僕を好きになる - 嵐\n3. 流れ星 - back number\n4. 365日の紙飛行機 - AKB48\n5. Blue Spring - =LOVE",
+        "kind": "text",
+        "time": "2025-12-20 10:00",
+        "sender": "村井優"
+      }
+    ],
+    "weather": [
+      {
+        "id": "weather-today",
+        "title": "東京",
+        "body": "12月20日（土）曇時多雲。最高気温9°C / 最低気温3°C。降水確率20%。明日は晴れの予報。",
+        "kind": "text",
+        "time": "2025-12-20 08:00",
+        "sender": "天氣"
+      }
+    ],
+    "reminders": [
+      {
+        "id": "rem-meet",
+        "title": "回覆瞳月",
+        "body": "讀完她藏在備忘錄裡的信，做出選擇。",
+        "kind": "text",
+        "time": "2025-12-20 22:30",
+        "sender": "村井優"
+      },
+      {
+        "id": "rem-shoot",
+        "title": "拍攝工作",
+        "body": "12/21 10:00 拍攝。",
+        "kind": "text",
+        "time": "2025-12-20 18:05",
+        "sender": "村井優"
+      }
+    ],
+    "mail": [
+      {
+        "id": "mail-draft",
+        "title": "草稿：沒有標題",
+        "body": "To: 山下瞳月\nSubject: （沒有標題）\n\n瞳月：\n\n這封信我寫了很久。我不知道該怎麼開口，所以寫了又刪，刪了又寫。\n\n你知道嗎？出道那天，你握住我發抖的手，說「沒關係，我們一起」。那一刻，我就知道你是特別的。\n\n後來我們疏遠了。不是因為不喜歡，是因為不知道怎麼回到從前。\n\n但這幾個月，我終於明白了——我對你的感情，不是懷念以前。是另一種更深的東西。\n\n如果你願意，我想親口告訴你。\n\n優",
+        "kind": "text",
+        "folder": "草稿",
+        "time": "2025-12-18 01:30",
+        "sender": "村井優"
+      },
+      {
+        "id": "mail-manager",
+        "title": "佐藤Manager",
+        "body": "拍攝通知：12/21 10:00，攝影棚A。請提前30分鐘到。",
+        "kind": "text",
+        "folder": "收件箱",
+        "time": "2025-12-20 17:55",
+        "sender": "佐藤Manager"
+      }
+    ],
+    "maps": [
+      {
+        "id": "map-first-meet",
+        "title": "第一次見面的地方",
+        "body": "2023年，出道前。我們第一次單獨聊天的地方。她在這裡跟我說：「以後請多指照顧。」",
+        "kind": "text",
+        "time": "2023-10-01 16:00",
+        "sender": "村井優",
+        "favorite": true
+      }
+    ],
+    "safari": [
+      {
+        "id": "safari-search",
+        "title": "搜尋記錄",
+        "body": "「如何向重要的人表達心意」「備忘錄密碼怎麼設比較好」「出道紀念日 禮物」「2025年12月 東京 天氣」",
+        "kind": "text",
+        "time": "2025-12-15 23:30",
+        "sender": "村井優"
+      }
+    ]
+  },
+  "variables": {},
+  "events": [
+    {
+      "id": "start-story",
+      "label": "開始",
+      "type": "start",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "",
+          "value": "LINE：山下瞳月發來一條訊息"
+        }
+      ]
+    },
+    {
+      "id": "read-hitomi-letter-hint",
+      "label": "讀到瞳月的關鍵訊息",
+      "event": "read",
+      "target": "line-hitomi-11",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "note-letter",
+          "value": true
+        },
+        {
+          "type": "unlock",
+          "key": "photo-hidden-waiting",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "備忘錄：一封隱藏的信已解鎖。相簿：一張隱藏照片已可查看"
+        }
+      ]
+    },
+    {
+      "id": "read-letter",
+      "label": "讀完給瞳月的信",
+      "event": "read",
+      "target": "note-letter",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "",
+          "value": "你讀完了優寫給瞳月的信。她把所有未說出口的心意都藏在這裡了。"
+        }
+      ],
+      "next": ["next-morning"]
+    },
+    {
+      "id": "read-debut-sms",
+      "label": "讀到出道的紀念訊息",
+      "event": "read",
+      "target": "sms-hitomi-1",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "",
+          "value": "訊息：出道紀念日密碼線索——20231104"
+        }
+      ]
+    },
+    {
+      "id": "next-morning",
+      "label": "次日清晨",
+      "type": "delay",
+      "delayMs": 2000,
+      "actions": [
+        {
+          "type": "date",
+          "key": "",
+          "value": "2025-12-21"
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "08:50"
+        },
+        {
+          "type": "call",
+          "key": "call-hitomi",
+          "value": "山下瞳月"
+        }
+      ]
+    },
+    {
+      "id": "call-answered",
+      "label": "接聽瞳月的電話",
+      "event": "callAnswered",
+      "target": "call-hitomi",
+      "next": ["final-choice"]
+    },
+    {
+      "id": "final-choice",
+      "label": "你要如何處理這部手機？",
+      "type": "choice",
+      "next": ["ending-go-meet", "ending-message", "ending-wait"]
+    },
+    {
+      "id": "ending-go-meet",
+      "label": "去見她",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "赴約：你帶著手機來到了第一次見面的地方。瞳月已經在那裡等著了。你把手機還給她，她看到了那封寫給她的信。「我都看到了。」她說，眼眶微紅。「我也是一樣的。」兩個人在冬日的清晨，終於說出了藏了很久的心意。"
+        }
+      ]
+    },
+    {
+      "id": "ending-message",
+      "label": "替她發出那封郵件",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "傳達：你找到了優寫了很久卻不敢發出的郵件草稿，替她按下了發送。幾分鐘後，瞳月回覆了：「我也是。我一直都是。」雖然不是優親口說的，但那些藏在文字裡的心意，終於傳達到了。"
+        }
+      ]
+    },
+    {
+      "id": "ending-wait",
+      "label": "把手機交給失物招領",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "等待：你決定不替她做決定。你把手機交給了失物招領處，留下了自己的聯繫方式。幾天後，村井優本人來取回了手機。她讀到瞳月的訊息和自己寫的信，沉默了很久。「謝謝你撿到手機的人。」她說，「但這件事，我想自己面對。」也許有些心意，需要當事人自己走出那一步。"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "go-meet",
+      "steps": [
+        {
+          "event": "read",
+          "target": "line-hitomi-11"
+        },
+        {
+          "event": "read",
+          "target": "note-letter",
+          "password": "20231104"
+        },
+        {
+          "advanceMs": 2000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-hitomi"
+        },
+        {
+          "choose": "ending-go-meet"
+        }
+      ],
+      "ending": "赴約：你帶著手機來到了第一次見面的地方。瞳月已經在那裡等著了。你把手機還給她，她看到了那封寫給她的信。「我都看到了。」她說，眼眶微紅。「我也是一樣的。」兩個人在冬日的清晨，終於說出了藏了很久的心意。",
+      "expectUnlocked": ["note-letter", "photo-hidden-waiting"]
+    },
+    {
+      "name": "message",
+      "steps": [
+        {
+          "event": "read",
+          "target": "line-hitomi-11"
+        },
+        {
+          "event": "read",
+          "target": "note-letter",
+          "password": "20231104"
+        },
+        {
+          "advanceMs": 2000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-hitomi"
+        },
+        {
+          "choose": "ending-message"
+        }
+      ],
+      "ending": "傳達：你找到了優寫了很久卻不敢發出的郵件草稿，替她按下了發送。幾分鐘後，瞳月回覆了：「我也是。我一直都是。」雖然不是優親口說的，但那些藏在文字裡的心意，終於傳達到了。",
+      "expectUnlocked": ["note-letter", "photo-hidden-waiting"]
+    },
+    {
+      "name": "wait",
+      "steps": [
+        {
+          "event": "read",
+          "target": "line-hitomi-11"
+        },
+        {
+          "event": "read",
+          "target": "note-letter",
+          "password": "20231104"
+        },
+        {
+          "advanceMs": 2000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-hitomi"
+        },
+        {
+          "choose": "ending-wait"
+        }
+      ],
+      "ending": "等待：你決定不替她做決定。你把手機交給了失物招領處，留下了自己的聯繫方式。幾天後，村井優本人來取回了手機。她讀到瞳月的訊息和自己寫的信，沉默了很久。「謝謝你撿到手機的人。」她說，「但這件事，我想自己面對。」也許有些心意，需要當事人自己走出那一步。",
+      "expectUnlocked": ["note-letter", "photo-hidden-waiting"]
+    }
+  ]
+}
